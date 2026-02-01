@@ -1,27 +1,24 @@
-Grade Master Pro: Waterloo Edition
+# GPA-Calculator
 
-Grade Master Pro is a high-performance academic utility specifically engineered for University of Waterloo students. Built with a "ChatGPT-inspired" clean UI, it streamlines the complex process of grade forecasting and academic planning.
+A lightweight web-based tool that helps university students estimate their GPA by entering grades and corresponding weight distributions.
 
-🚀 Key Features
+## Features
+- 📊 Calculate final GPA based on exams, assignments, quizzes, and custom weights  
+- ✏️ Fully editable inputs for scores and percentage weights  
+- ⚡ Instant, real-time GPA calculation in the browser  
+- 🧮 Handles weighted averages accurately and transparently  
 
-Intelligent Grade Buffing: Automatically implements the "Final Exam replaces lower Mid-term" logic common in Waterloo STEM courses.
+## Tech Stack
+- HTML  
+- CSS  
+- JavaScript  
 
-Advanced Interpolation Logic: Handles the non-linear "40/60 Rule" (阶梯计算法) used in various Engineering and Math faculties to ensure accurate final grade projections.
+## Use Case
+- Quickly estimate final course GPA before exams  
+- Experiment with different grading scenarios and weight distributions  
+- Useful for academic planning and progress tracking  
 
-Dynamic Category Management: Effortlessly add, weight, and organize assignments, labs, and exams.
-
-Local Persistence: Your data is automatically saved to your browser, allowing for quick adjustments throughout the term without losing progress.
-
-Responsive & Modern UI: A dark-mode, minimalist interface designed for both desktop efficiency and mobile convenience.
-
-🛠️ Tech Stack
-
-Frontend: React.js
-
-Styling: Tailwind CSS
-
-Icons: Lucide-React
-
-State Management: React Hooks (useState, useEffect) with LocalStorage integration.
-
-This project demonstrates my ability to take complex, domain-specific logic (Academic Grading Standards) and translate it into a user-centric digital product.
+## Notes
+- Runs entirely in the browser  
+- No backend or data storage required  
+- Simple, clean, and student-friendly interface  
